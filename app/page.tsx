@@ -11,7 +11,7 @@ export default function Page() {
         <ClientWrapper>
             <Layout style={{ minHeight: "100vh" }}>
                 <Header>
-                    <Typography.Title level={3} style={{ color: "#fff", margin: 0 }}>
+                    <Typography.Title level={3} style={{ color: "#fff", margin: 12 }}>
                         BPMN Editor
                     </Typography.Title>
                 </Header>

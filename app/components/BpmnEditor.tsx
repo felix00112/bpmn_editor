@@ -64,7 +64,6 @@ export default function BpmnEditor() {
 
     return (
         <Card
-            title="BPMN Editor"
             variant={"borderless"}
             style={{ width: "100%", marginTop: 16 }}
         >
